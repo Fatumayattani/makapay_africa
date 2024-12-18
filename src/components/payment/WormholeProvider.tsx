@@ -1,5 +1,5 @@
 import React from 'react';
-import { WormholeClient } from '@wormhole-foundation/connect-sdk-client';
+import { WormholeClient } from "@wormhole-foundation/connect-sdk-client";
 import { EvmPlatform } from '@wormhole-foundation/connect-sdk-evm';
 import { SolanaPlatform } from '@wormhole-foundation/connect-sdk-solana';
 import { CosmwasmPlatform } from '@wormhole-foundation/connect-sdk-cosmwasm';
